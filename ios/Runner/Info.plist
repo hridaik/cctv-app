@@ -6,6 +6,8 @@
 	<true/>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>This app needs to access your location while in use.</string>
 	<key>CFBundleDisplayName</key>
 	<string>Flutter Application 1</string>
 	<key>CFBundleExecutable</key>
